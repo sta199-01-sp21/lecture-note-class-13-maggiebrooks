@@ -105,6 +105,7 @@ as the "best guess", or estimate, for the population parameter.
 
 Suppose we were interested in the population mean. What would be natural
 point estimate to use?
+The mean
 
 
 | Quantity           | Parameter  | Statistic   |
@@ -117,6 +118,7 @@ point estimate to use?
 
 
 What is the downside to using point estimates?
+It is computed from sample data and may not be representative of an entire population
 
 ## Confidence intervals
 
@@ -146,6 +148,7 @@ Suppose you randomly sample 50 students and 5 of them are left handed. If you
 were to take another random sample of 50 students, how many would you expect 
 to be left handed? Would you be surprised if only 3 of them were left handed? 
 Would you be surprised if 40 of them were left handed?
+I would not be surprised if 3 were left-handed since that's only a 4% difference, however 40 left handed students would be surprising since it is so drastically different from the last sample
 
 ## Quantifying the variability of a sample statistic
 
